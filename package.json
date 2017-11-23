@@ -1,0 +1,33 @@
+{
+  "name": "vayne-plugin-angularjs",
+  "description": "vayne angularjs 插件",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vaynejs/vayne-plugin-angularjs.git"
+  },
+  "keywords": [
+    "vayne",
+    "vayne-plugin",
+    "angularjs"
+  ],
+  "author": "xierenyuan@qq.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vaynejs/vayne-plugin-angularjs/issues"
+  },
+  "homepage": "https://github.com/vaynejs/vayne-plugin-angularjs#readme",
+  "devDependencies": {
+    "eslint-config-vayne": "^0.0.3"
+  },
+  "dependencies": {
+    "html-loader": "^0.5.1",
+    "ng-annotate-loader": "^0.6.1",
+    "ng-annotate-patched": "^1.6.0",
+    "ngtemplate-loader": "^2.0.1"
+  }
+}
